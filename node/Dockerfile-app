@@ -1,4 +1,4 @@
-FROM raphabot/node:1.0.0
+FROM raphabot/node:1.0.1
 
 COPY app/ /app/
 
